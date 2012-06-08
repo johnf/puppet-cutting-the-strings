@@ -12,5 +12,6 @@ combination of, git, Capistrano and Fog.
 git clone git://github.com/johnf/puppet-cutting-the-strings.git
 cd /puppet-cutting-the-strings
 bundle
+apt-get install wkhtmltopdf # or equivelant
 ./setup.sh
 ```
