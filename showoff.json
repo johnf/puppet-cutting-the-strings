@@ -1,0 +1,17 @@
+{
+  "name": "Cutting the Strings: masterless puppet",
+  "sections": [
+    {"section": "title"},
+    {"section": "dental"},
+    {"section": "vquence"},
+    {"section": "patterns"},
+    {"section": "history"},
+    {"section": "present"},
+    {"section": "future"},
+    {"section": "puppet"},
+    {"section": "fog"},
+    {"section": "bootstrap"},
+    {"section": "capistrano"},
+    {"section": "questions"}
+  ]
+}
