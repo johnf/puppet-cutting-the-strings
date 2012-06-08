@@ -7,6 +7,7 @@ GEM
     nokogiri (1.5.3)
     parslet (1.4.0)
       blankslate (~> 2.0)
+    pdfkit (0.5.2)
     rack (1.4.1)
     rack-protection (1.2.0)
       rack
@@ -29,5 +30,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  pdfkit
   sass
   showoff
