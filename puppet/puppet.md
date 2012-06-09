@@ -1,6 +1,6 @@
 !SLIDE transition=fade background subsection
 # Puppet
-![Puppet](puppet.jpg)
+![Puppet](puppet.png)
 
 !SLIDE transition=fade
 # almost nothing changes

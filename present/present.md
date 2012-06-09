@@ -1,6 +1,6 @@
 !SLIDE transition=fade background subsection
 # Present
-![Present](present.jpg)
+![Present](present.png)
 
 !SLIDE transition=fade
 # fog

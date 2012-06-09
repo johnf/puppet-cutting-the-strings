@@ -1,6 +1,6 @@
 !SLIDE transition=fade background subsection
 # Dental Surgeries
-![dental surgeries](dental.jpg)
+![dental surgeries](dental.png)
 
 !SLIDE transition=fade
 # Linux and KVM

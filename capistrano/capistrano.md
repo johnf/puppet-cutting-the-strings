@@ -1,6 +1,6 @@
 !SLIDE transition=fade background subsection
 # Capistrano
-![Capistrano](capistrano.jpg)
+![Capistrano](capistrano.png)
 
 !SLIDE transition=fade small
 # Day to day

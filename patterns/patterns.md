@@ -1,6 +1,6 @@
 !SLIDE transition=fade background subsection
 # Emerging Pattern
-![Emerging Patterns](patterns.jpg)
+![Emerging Patterns](patterns.png)
 
 !SLIDE transition=fade
 # static

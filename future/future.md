@@ -1,6 +1,6 @@
 !SLIDE transition=fade background subsection
 # Future
-![Future](future.jpg)
+![Future](future.png)
 
 !SLIDE transition=fade
 # librarian-puppet

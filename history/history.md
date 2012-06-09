@@ -1,6 +1,6 @@
 !SLIDE transition=fade background subsection
 # History
-![History](history.jpg)
+![History](history.png)
 
 !SLIDE transition=fade
 # puppet master

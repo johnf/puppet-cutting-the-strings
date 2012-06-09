@@ -1,6 +1,6 @@
 !SLIDE transition=fade background subsection
 # Bootstrap
-![Bootstrap](bootstrap.jpg)
+![Bootstrap](bootstrap.png)
 
 
 !SLIDE transition=fade

@@ -3,6 +3,7 @@
 # Cutting the strings:
 # masterless puppet
 
+![Dirty Hack](jf_dirty_hack.png)
 
 
 
